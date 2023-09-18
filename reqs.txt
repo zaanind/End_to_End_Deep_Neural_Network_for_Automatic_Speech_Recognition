@@ -15,4 +15,4 @@ soundfile
 signal
 contextlib
 requests
-_pickle
+pickle
